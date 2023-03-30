@@ -1,0 +1,6 @@
+format_version=2.3
+OUTPUT=..\..\..\..\..\..\..\Documents\PSData\scriptoutput.txt
+OUTPUT_CHK=False
+COMMENTS=
+cmdMeasure False%poleDPV.psmethod%poleFalse%poleFalse%pole%pole%poleFalse%poleFalse%pole%pole%poleFalse%pole1
+EndOfSubBlock
